@@ -1,6 +1,5 @@
-import React, { useEffect, useState } from 'react'
 import { Button, Skeleton } from '@mui/material'
-import Card from '../components/Card'
+import React, { useEffect, useState } from 'react'
 
 
 
